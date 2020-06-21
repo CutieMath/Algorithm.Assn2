@@ -2,6 +2,7 @@
 Algorithm and Analysis assignment two, in collaboration with <a href="https://github.com/CY1223">Chin</a>.  
 The program generate maze use Hunt and Kill algorithm, and Kruskal algorithm.   
 Then solve maze use normal solver and recursive backtracker solver.  
+A test program will evaluate the time used to generate the maze using the two algorithms. It will also evaluate the time used to solve the maze.   
 
 ## Generate and solve maze  
 Run ``MazeTester.java`` with arguments  
