@@ -5,7 +5,8 @@ Then solve maze use normal solver and recursive backtracker solver.
 
 ## Generate and solve maze  
 Run ``MazeTester.java``   
-with arguments ``mazeType generatorName solverName numRow numCol entranceRow entranceCol exitRow exitCol tunnelList``   
+with arguments  
+``mazeType generatorName solverName numRow numCol entranceRow entranceCol exitRow exitCol tunnelList``   
 
 ### To compile on server:  
 javac -cp .:mazeSolver/SampleSolver.jar *.java  
