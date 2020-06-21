@@ -5,7 +5,7 @@ Then solve maze use normal solver and recursive backtracker solver.
 
 ### To compile on server:  
 javac -cp .:mazeSolver/SampleSolver.jar *.java  
-<br>
+
 ### To run on server:  
 java -cp .:mazeSolver/SampleSolver.jar MazeTester inputFilename n  
   
