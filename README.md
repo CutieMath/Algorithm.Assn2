@@ -6,10 +6,6 @@ Then solve maze use normal solver and recursive backtracker solver.
 ## Generate and solve maze  
 Run ``MazeTester.java``   
 with arguments ``mazeType generatorName solverName numRow numCol entranceRow entranceCol exitRow exitCol tunnelList``   
-The maze can be visualised if run directly:  
-HuntAndKill: ``mazeGenerator/HuntAndKillGenerator.java``   
-Kruskal: ``mazeGenerator/KruskalGenerator.java``    
-Solve the maze: ``mazeSolver/RecursiveBacktrackerSolver.java``
 
 ### To compile on server:  
 javac -cp .:mazeSolver/SampleSolver.jar *.java  
